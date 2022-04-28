@@ -5,5 +5,6 @@ void main()
 	int  b=10,c;
 	c=a+b;
 	printf("%d\n",c);
+	//addition of two numbers
 }	
 	
